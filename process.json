@@ -6,7 +6,9 @@
 "log_date_format" : "YYYY-MM-DD HH:mm Z", 
 "watch": ["/bin/server.js"], 
 "watch_options": { 
+  
 "followSymlinks": true, 
+  
 "usePolling"   : true, 
 "interval"    : 5 
 } 
